@@ -1,5 +1,4 @@
-# deeplense-gsoc-2026
-# DeepLense GSoC 2026 — Vidhi Jain
+# DeepLense GSoC 2026 - Vidhi Jain
 
 **Organization:** ML4SCI (DeepLense)  
 **Project:** Hybrid Quantum-Classical Representation Learning for Dark Matter  
@@ -9,7 +8,7 @@
 
 ## Tests Completed
 
-### Common Test I — Multi-Class Classification
+### Common Test I - Multi-Class Classification
 - **Model:** ResNet-18 (fine-tuned, transfer learning)
 - **Framework:** PyTorch
 - **Macro AUC:** 0.7425
@@ -27,7 +26,7 @@
 
 ---
 
-### Specific Test III — Quantum ML
+### Specific Test III - Quantum ML
 - **Framework:** PennyLane + PyTorch
 - **Architecture:** CNN → Quantum Kernel (4 qubits) → Linear(3)
 - **Encoding:** Angle encoding + PCA dimensionality reduction
